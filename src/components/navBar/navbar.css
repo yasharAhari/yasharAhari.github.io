@@ -19,6 +19,15 @@
     height: inherit;
     @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600&display=swap');
     font-family: 'Cinzel', serif;
+    text-decoration: none;
+}
+
+.nb-name a{
+    text-decoration: none;
+}
+
+.nb-name .nb-name-text a:visited{
+    text-decoration: none;
 }
 
 .nb-external

@@ -9,7 +9,7 @@ export default class NavBar extends Component{
         return(
             <div className="nb-navbar">
                 <div className="nb-name">
-                    <h2 className="nb-name-text">Yashar G. Ahari</h2>
+                    <a href="/"><h2 className="nb-name-text">Yashar G. Ahari</h2></a>
                 </div>
 
                 <div className="nb-external">
