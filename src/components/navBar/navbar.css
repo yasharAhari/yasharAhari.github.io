@@ -1,0 +1,39 @@
+.nb-navbar{
+    height: 34px;
+    width: 100%;
+    background-color: gray;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nb-name
+{
+    width: fit-content;
+    margin: 0;
+}
+
+.nb-name .nb-name-text
+{
+    margin-top: 5px;
+    color: #fff;
+    height: inherit;
+    @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600&display=swap');
+    font-family: 'Cinzel', serif;
+}
+
+.nb-external
+{
+    width: fit-content;
+    padding: 1px;
+    float: right;
+}
+
+.nb-external a
+{
+    margin:2px;
+}
+
+.nb-filler
+{
+    width: 75%;
+}
